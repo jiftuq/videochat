@@ -1,0 +1,28 @@
+.localVideo {
+    display: block;
+  }
+  
+  .localVideo video {
+    width: 100%;
+  }
+  
+  .localVideoShare {
+    display: none;
+    width: 70%;
+  }
+  
+  .localVideoShare video {
+    width: 100%;
+  }
+  
+  .remoteVideo video {
+    width: 100%;
+  }
+  
+  .mostrarPantalla {
+    display: block;
+  }
+  
+  .ocultarPantalla {
+    display: none;
+  }
